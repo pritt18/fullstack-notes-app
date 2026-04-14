@@ -1,0 +1,10 @@
+Flask
+Flask-SQLAlchemy
+Flask-Login
+gunicorn
+
+
+##HOW TO RUN
+pip install -r requirements.txt
+python app.py
+
